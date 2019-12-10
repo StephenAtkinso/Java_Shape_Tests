@@ -1,7 +1,8 @@
-package shapevolumes;
-
 import org.junit.Test;
 import static org.junit.Assert.*;
+import shape_package.Sphere;
+import shape_package.Cube;
+import shape_package.RegTetrahedron;
 
 public class TestAssertions {
 

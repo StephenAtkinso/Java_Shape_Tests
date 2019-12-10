@@ -1,4 +1,4 @@
-package shapevolumes;
+package shape_package;
 
 public class Sphere {
 
